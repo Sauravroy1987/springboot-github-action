@@ -6,7 +6,7 @@
 # separate terms of service, privacy policy, and support
 # documentation.
 
-name: Springboot Project with Github Action
+name: Spring Boot Project with Github Action
 
 on:
   push:
